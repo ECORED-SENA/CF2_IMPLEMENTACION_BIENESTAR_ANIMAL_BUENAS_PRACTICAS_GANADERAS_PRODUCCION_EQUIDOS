@@ -22,7 +22,7 @@
                   <ul class="fa-ul estilo___ul mb-0">
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Ley 1774 de 2016</strong>: reconoce a los animales como seres sintientes, que deben ser protegidos del sufrimiento y el dolor.</li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Resolución ICA 7953 de 2017</strong>: establece el bienestar como criterio obligatorio para obtener la certificación BPG en équidos.</li>
-                    <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Resolución 136 de 2020 (MinAgricultura)</strong>: adopta un Manual de Condiciones de Bienestar Animal armonizado con los estándares de la WOAH.</li>
+                    <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Resolución 136 de 2020 (MinAgricultura)</strong>: adopta un Manual de Condiciones de Bienestar Animal armonizado con los estándares de la <em>WOAH</em>.</li>
                   </ul>
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
@@ -99,7 +99,7 @@
         #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.2 Las cinco libertades del bienestar animal
 
-        p.mb-5 Las <strong>Cinco Libertades</strong> fueron formuladas por el <em>Farm Animal Welfare Council (FAWC)</em> y adoptadas por la <strong>WOAH</strong>, convirtiéndose en el marco técnico de referencia a nivel mundial. En Colombia, están incorporadas en la <strong>Resolución ICA 7953 de 2017</strong> y en la <strong>Resolución 136 de 2020</strong>, y son de obligatorio cumplimiento en todos los sistemas que utilicen équidos. A continuación, se presenta cada libertad, su definición y su aplicación práctica en el contexto colombiano:
+        p.mb-5 Las <strong>Cinco Libertades</strong> fueron formuladas por el <em>Farm Animal Welfare Council (FAWC)</em> y adoptadas por la <strong><em>WOAH</em></strong>, convirtiéndose en el marco técnico de referencia a nivel mundial. En Colombia, están incorporadas en la <strong>Resolución ICA 7953 de 2017</strong> y en la <strong>Resolución 136 de 2020</strong>, y son de obligatorio cumplimiento en todos los sistemas que utilicen équidos. A continuación, se presenta cada libertad, su definición y su aplicación práctica en el contexto colombiano:
 
         <!-- SLYDER IMAGENES -->
         .fondo___slider.mb-0

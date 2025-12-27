@@ -138,7 +138,7 @@
                       figure.mb-2(data-aos="fade-left")
                         img(src='@/assets/curso/temas/img112.svg', alt="" style="max-width: 90px").m-auto
                     h5.text-center Separación de residuos de animales enfermos
-                    p.mb-0 Prevenir diseminación de enfermedades.
+                    p.mb-0 Prevenir la diseminación de enfermedades.
           .col-xl-2.col-md-9(data-aos="fade-left").espacio___movil_3
             .row
               .col-xl(data-aos="zoom-in")
@@ -219,7 +219,7 @@
                 .row.align-items-center
                   .col-lg
                     h4 Pastoreo rotacional
-                    p.mb-3 Proteger la cobertura vegetal, evitar compactación y erosión.
+                    p.mb-3 Proteger la cobertura vegetal, evitar la compactación y la erosión.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img117.png", alt="" ).m-auto

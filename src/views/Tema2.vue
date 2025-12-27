@@ -20,7 +20,7 @@
                 <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Resolución ICA 7953 de 2017</strong> (BPG en équidos).</li>
                 <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Resolución 136 de 2020</strong> (bienestar animal en producción).</li>
                 <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Ley 1774 de 2016</strong> (reconocimiento de los animales como seres sintientes).</li>
-                <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Lineamientos de la WOAH</strong> sobre bienestar y manejo.</li>
+                <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span><strong>Lineamientos de la <em>WOAH</em></strong> sobre bienestar y manejo.</li>
               </ul>
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
@@ -267,7 +267,7 @@
             figure
               img(src="@/assets/curso/temas/img19.svg" style="max-width: 60px").m-auto
           .col
-            h3 Distribución por Sexo, Edad y Función
+            h3 Distribución por sexo, edad y función
         
         p.mb-5 Una distribución correcta del hato reduce el estrés, las peleas y las lesiones, y permite un manejo más eficiente.
     

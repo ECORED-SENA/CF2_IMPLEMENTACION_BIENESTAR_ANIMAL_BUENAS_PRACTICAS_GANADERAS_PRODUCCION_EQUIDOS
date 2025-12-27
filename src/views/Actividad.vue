@@ -151,7 +151,7 @@ export default {
         {
           id: 5,
           texto:
-            '¿¿Cuál de los siguientes elementos debe incluir una ficha sanitaria equina?',
+            '¿Cuál de los siguientes elementos debe incluir una ficha sanitaria equina?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -335,7 +335,7 @@ export default {
         {
           id: 11,
           texto:
-            'ELas Buenas Prácticas Ganaderas (BPG) son opcionales para predios equinos en Colombia.',
+            'Las Buenas Prácticas Ganaderas (BPG) son opcionales para predios equinos en Colombia.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

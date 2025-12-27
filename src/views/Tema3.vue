@@ -12,7 +12,7 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img50.png', alt="").m-auto
       .col-xl
-        p.mb-0 El manejo sanitario en équidos comprende un conjunto de acciones preventivas, diagnósticas, terapéuticas y de bioseguridad destinadas a proteger la salud física y el bienestar de caballos, mulas, asnos y burdéganos. Este manejo busca evitar la aparición, propagación y persistencia de enfermedades dentro del hato. En Colombia, este sistema se enmarca dentro de la normativa del ICA, el Ministerio de Agricultura, la WOAH y otras entidades técnicas nacionales e internacionales.
+        p.mb-0 El manejo sanitario en équidos comprende un conjunto de acciones preventivas, diagnósticas, terapéuticas y de bioseguridad destinadas a proteger la salud física y el bienestar de caballos, mulas, asnos y burdéganos. Este manejo busca evitar la aparición, propagación y persistencia de enfermedades dentro del hato. En Colombia, este sistema se enmarca dentro de la normativa del ICA, el Ministerio de Agricultura, la <em>WOAH</em> y otras entidades técnicas nacionales e internacionales.
 
     <!-- BLOQUE 1 -->
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -184,7 +184,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img62.svg', alt='').m-auto
               .col-xl
-                h5.mb-0 Estándares de la WOAH
+                h5.mb-0 Estándares de la <em>WOAH</em>
                 p.mb-0 Clasifican a la AIE, influenza, encefalitis equinas y rabia como <strong>enfermedades de importancia internacional</strong>.
           .col-xl-6.col-md-9.espacio___movil_3
             .row.align-items-center.m-0.style___box_11(data-aos="zoom-in")
@@ -202,7 +202,7 @@
 
         .row.align-items-center.mb-5.m-0.style___box_13(data-aos="zoom-in")
           .col-xl
-            p.mb-0 En Colombia, varias <strong>enfermedades equinas</strong> son consideradas de <strong>interés sanitario oficial</strong> por su impacto en la salud animal, su potencial zoonótico o su relevancia económica. Estas enfermedades están bajo vigilancia del <strong>ICA</strong>, el <strong>Instituto Nacional de Salud (INS)</strong> y figuran en los listados de la <strong>WOAH</strong> (antes OIE). Su control es obligatorio en predios que desean obtener o mantener la certificación en Buenas Prácticas Ganaderas (BPG/BPE). A continuación se describen las principales enfermedades bajo control oficial:
+            p.mb-0 En Colombia, varias <strong>enfermedades equinas</strong> son consideradas de <strong>interés sanitario oficial</strong> por su impacto en la salud animal, su potencial zoonótico o su relevancia económica. Estas enfermedades están bajo vigilancia del <strong>ICA</strong>, el <strong>Instituto Nacional de Salud (INS)</strong> y figuran en los listados de la <strong><em>WOAH</em></strong> (antes OIE). Su control es obligatorio en predios que desean obtener o mantener la certificación en Buenas Prácticas Ganaderas (BPG/BPE). A continuación se describen las principales enfermedades bajo control oficial:
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img64.jpg', alt='').m-auto
@@ -234,7 +234,7 @@
                   </ul>
                 .row(titulo="Anemia Infecciosa Equina (AIE)").ajuste-cajaAcordion
                   <ul class="fa-ul mb-3">
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Enfermedad viral crónica por lentivirus (Retroviridae), listada por la WOAH.</li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Enfermedad viral crónica por lentivirus (Retroviridae), listada por la <em>WOAH</em>.</li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Puede presentarse sin síntomas, pero convierte al equino en portador permanente.</li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Resolución ICA 676 de 2015 exige:</li>
                       <ul class="fa-ul estilo___ul_2 mb-1">
@@ -262,7 +262,7 @@
               AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
                 .row(titulo="Tétanos").ajuste-cajaAcordion
                   <ul class="fa-ul mb-3">
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Causado por la toxina de Clostridium tetani, bacteria presente en el suelo.</li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Causado por la toxina de <em>Clostridium tetani</em>, bacteria presente en el suelo.</li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Los caballos son particularmente susceptibles.</li>
                     <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Prevención mediante:</li>
                       <ul class="fa-ul estilo___ul_2 mb-1">
@@ -433,7 +433,7 @@
                 <ul class="fa-ul estilo___ul_1 mb-3">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Calcular la dosis según el <strong>peso vivo</strong> del equino.</li>
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Respetar la vía indicada: <strong>oral, intramuscular, intravenosa, tópica</strong>.</li>
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>No mezclar medicamentos en la misma jeringa salvo indicación veterinaria.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>No mezclar medicamentos en la misma jeringa, salvo indicación veterinaria.</li>
                 </ul>
           .tarjeta.color-acento-botones--borde.p-4(titulo="Duración completa del tratamiento")
             .row.align-items-center

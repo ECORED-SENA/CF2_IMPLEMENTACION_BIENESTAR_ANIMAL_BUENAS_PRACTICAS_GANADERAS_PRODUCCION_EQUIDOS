@@ -232,7 +232,7 @@
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.5 Gestión de personal y capacitación en manejo animal
     
-    p.mb-5 La capacitación es una medida preventiva prioritaria en centros equinos, no solo para la seguridad humana sino también para garantizar el bienestar de los animales. Los temas clave en la formación del personal:
+    p.mb-5 La capacitación es una medida preventiva prioritaria en centros equinos, no solo para la seguridad humana, sino también para garantizar el bienestar de los animales. Los temas clave en la formación del personal:
 
     .fondo___carrusel
       .px-5

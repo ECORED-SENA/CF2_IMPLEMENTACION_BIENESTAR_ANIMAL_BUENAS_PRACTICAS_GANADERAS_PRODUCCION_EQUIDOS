@@ -144,7 +144,7 @@
             #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
               h2 4.4 Relación entre sanidad equina y salud pública
 
-            p.mb-5 La salud de los équidos está directamente relacionada con la salud de las personas y del ambiente. Por ello, Colombia promueve el enfoque <strong>UNA SALUD (One Health)</strong>, articulado con los lineamientos de la <strong>OMS, WOAH y FAO</strong>.
+            p.mb-5 La salud de los équidos está directamente relacionada con la salud de las personas y del ambiente. Por ello, Colombia promueve el enfoque <strong>UNA SALUD (<em>One Health</em>)</strong>, articulado con los lineamientos de la <strong>OMS, <em>WOAH</em> y FAO</strong>.
 
     .row.align-items-center.mb-0
       .col-xl
