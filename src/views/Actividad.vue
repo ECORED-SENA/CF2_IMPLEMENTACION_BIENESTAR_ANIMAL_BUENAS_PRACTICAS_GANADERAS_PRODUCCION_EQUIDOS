@@ -294,7 +294,8 @@ export default {
             },
             {
               id: 'd',
-              texto: '',
+              texto:
+                'Mezclar los residuos peligrosos con residuos ordinarios para facilitar su disposición final.',
               esCorrecta: false,
             },
           ],
