@@ -202,7 +202,7 @@
 
         .row.align-items-center.mb-5.m-0.style___box_13(data-aos="zoom-in")
           .col-xl
-            p.mb-0 En Colombia, varias <strong>enfermedades equinas</strong> son consideradas de <strong>interés sanitario oficial</strong> por su impacto en la salud animal, su potencial zoonótico o su relevancia económica. Estas enfermedades están bajo vigilancia del <strong>ICA</strong>, el <strong>Instituto Nacional de Salud (INS)</strong> y figuran en los listados de la <strong><em>WOAH</em></strong> (antes OIE). Su control es obligatorio en predios que desean obtener o mantener la certificación en Buenas Prácticas Ganaderas (BPG/BPE). A continuación se describen las principales enfermedades bajo control oficial:
+            p.mb-0 En Colombia, varias <strong>enfermedades equinas</strong> son consideradas de <strong>interés sanitario oficial</strong> por su impacto en la salud animal, su potencial zoonótico o su relevancia económica. Estas enfermedades están bajo vigilancia del <strong>ICA</strong>, el <strong>Instituto Nacional de Salud (INS)</strong> y figuran en los listados de la <strong><em>WOAH</em></strong> (antes OIE). Su control es obligatorio en predios que desean obtener o mantener la certificación en Buenas Prácticas Ganaderas (BPG/BPE). A continuación, se describen las principales enfermedades bajo control oficial:
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img64.jpg', alt='').m-auto
@@ -418,7 +418,7 @@
     .row.align-items-center.mb-5
       .col-xl
         TabsA.color-acento-botones.mb-0(data-aos="zoom-in")
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Prescripción profesional obligatoria")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Prescripción profesional obligatoria")
             .row.align-items-center
               .col-lg
                 h4 Prescripción profesional obligatoria
@@ -426,7 +426,7 @@
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Todos los medicamentos deben ser indicados por un veterinario.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Prohibida la automedicación por parte de propietarios o personal sin formación.</li>
                 </ul>
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Dosis y vía de administración correcta")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Dosis y vía de administración correcta")
             .row.align-items-center
               .col-lg
                 h4 Dosis y vía de administración correcta
@@ -435,7 +435,7 @@
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Respetar la vía indicada: <strong>oral, intramuscular, intravenosa, tópica</strong>.</li>
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>No mezclar medicamentos en la misma jeringa, salvo indicación veterinaria.</li>
                 </ul>
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Duración completa del tratamiento")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Duración completa del tratamiento")
             .row.align-items-center
               .col-lg
                 h4 Duración completa del tratamiento
@@ -443,7 +443,7 @@
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-horse-head"></i></span>No suspender el uso de antibióticos antes del tiempo prescrito, aunque haya mejora clínica.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-horse-head"></i></span>Cumplir la duración total evita recaídas y resistencias.</li>
                 </ul>
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Períodos de retiro")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Períodos de retiro")
             .row.align-items-center
               .col-lg
                 h4 Períodos de retiro
@@ -610,22 +610,22 @@
     .row.align-items-center.mb-5
       .col-xl
         TabsA.color-acento-botones.mb-0(data-aos="zoom-in")
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Verificación del uso racional de medicamentos")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Verificación del uso racional de medicamentos")
             .row.align-items-center
               .col-lg
                 h4 Verificación del uso racional de medicamentos
                 p.mb-3 Detectar y corregir el sobreuso de antibióticos o antiparasitarios.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Análisis epidemiológico")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Análisis epidemiológico")
             .row.align-items-center
               .col-lg
                 h4 Análisis epidemiológico
                 p.mb-3 Facilita la reconstrucción del historial clínico ante brotes o muertes.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Cumplimiento normativo")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Cumplimiento normativo")
             .row.align-items-center
               .col-lg
                 h4 Cumplimiento normativo
                 p.mb-3 Demuestra ante el ICA, INVIMA o auditorías de calidad que se respetan las BPG.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Gestión del hato")
+          .tarjeta.color-acento-botones--borde_1.p-4(titulo="Gestión del hato")
             .row.align-items-center
               .col-lg
                 h4 Gestión del hato

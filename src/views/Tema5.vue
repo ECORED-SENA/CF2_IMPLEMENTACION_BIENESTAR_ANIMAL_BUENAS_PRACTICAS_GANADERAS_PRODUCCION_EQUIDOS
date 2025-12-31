@@ -195,27 +195,27 @@
         .row.align-items-center.mb-0
           .col-xl
             TabsA.color-acento-botones.mb-0(data-aos="zoom-in")
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Restauración ecológica de áreas degradadas")
+              .tarjeta.color-acento-botones--borde_2.p-4(titulo="Restauración ecológica de áreas degradadas")
                 .row.align-items-center
                   .col-lg
                     h4 Restauración ecológica de áreas degradadas
                     p.mb-3 Recuperar corredores biológicos, proteger fuentes de agua.
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Uso de cercas vivas y árboles nativos")
+              .tarjeta.color-acento-botones--borde_2.p-4(titulo="Uso de cercas vivas y árboles nativos")
                 .row.align-items-center
                   .col-lg
                     h4 Uso de cercas vivas y árboles nativos
                     p.mb-3 Favorecer aves, insectos benéficos y ofrecer sombra natural.
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Control de fauna invasora")
+              .tarjeta.color-acento-botones--borde_2.p-4(titulo="Control de fauna invasora")
                 .row.align-items-center
                   .col-lg
                     h4 Control de fauna invasora
                     p.mb-3 Evitar impactos negativos sobre especies locales.
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Protección de fauna silvestre")
+              .tarjeta.color-acento-botones--borde_2.p-4(titulo="Protección de fauna silvestre")
                 .row.align-items-center
                   .col-lg
                     h4 Protección de fauna silvestre
                     p.mb-3 No realizar caza; permitir coexistencia armónica.
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Pastoreo rotacional")
+              .tarjeta.color-acento-botones--borde_2.p-4(titulo="Pastoreo rotacional")
                 .row.align-items-center
                   .col-lg
                     h4 Pastoreo rotacional

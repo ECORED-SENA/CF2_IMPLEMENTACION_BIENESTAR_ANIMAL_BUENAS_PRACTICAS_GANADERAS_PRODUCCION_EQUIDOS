@@ -67,7 +67,7 @@
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 4.2 Uso responsable de medicamentos y control de residuos
 
-        p.mb-5 El uso de medicamentos veterinarios en équidos debe estar alineado con la política nacional frente a la <strong>Resistencia a los Antimicrobianos (RAM)</strong>, que integra las directrices del ICA, el INVIMA y el Plan Nacional RAM bajo enfoque Una Salud.
+        p.mb-5 El uso de medicamentos veterinarios en équidos debe estar alineado con la política nacional frente a la <strong>Resistencia a los Antimicrobianos (RAM)</strong>, que integra las directrices del ICA, el INVIMA y el Plan Nacional RAM bajo enfoque <strong>Una Salud</strong>.
 
         .row.justify-content-center.mb-0
           .col-xl-10
@@ -149,27 +149,27 @@
     .row.align-items-center.mb-0
       .col-xl
         TabsA.color-acento-botones.mb-0(data-aos="zoom-in")
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Zoonosis (rabia, encefalitis, leptospirosis)")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Zoonosis (rabia, encefalitis, leptospirosis)")
             .row.align-items-center
               .col-lg
                 h4 Zoonosis (rabia, encefalitis, leptospirosis)
                 p.mb-3 Requieren vacunación, vigilancia activa, control de vectores y educación al personal.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Control de plagas")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Control de plagas")
             .row.align-items-center
               .col-lg
                 h4 Control de plagas
                 p.mb-3 Estiércol acumulado genera criaderos de moscas y mosquitos transmisores de enfermedades.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Resistencia antimicrobiana (RAM)")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Resistencia antimicrobiana (RAM)")
             .row.align-items-center
               .col-lg
                 h4 Resistencia antimicrobiana (RAM)
                 p.mb-3 El mal uso de antibióticos en équidos puede afectar a humanos vía ambiental o contacto directo.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Turismo y actividades públicas con animales")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Turismo y actividades públicas con animales")
             .row.align-items-center
               .col-lg
                 h4 Turismo y actividades públicas con animales
                 p.mb-3 Un caballo enfermo o mal manejado en cabalgatas, exhibiciones o terapias representa riesgo sanitario y social.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Bienestar animal como prevención")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Bienestar animal como prevención")
             .row.align-items-center
               .col-lg
                 h4 Bienestar animal como prevención

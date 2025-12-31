@@ -151,27 +151,27 @@
     .row.align-items-center.mb-0
       .col-xl
         TabsA.color-acento-botones.mb-0(data-aos="zoom-in")
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Políticas de SST")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Políticas de SST")
             .row.align-items-center
               .col-lg
                 h4 Políticas de SST
                 p.mb-3 Documento firmado por la gerencia.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Matriz de riesgos")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Matriz de riesgos")
             .row.align-items-center
               .col-lg
                 h4 Matriz de riesgos
                 p.mb-3 Evaluación de peligros específicos del entorno equino.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Plan anual de capacitación")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Plan anual de capacitación")
             .row.align-items-center
               .col-lg
                 h4 Plan anual de capacitación
                 p.mb-3 Temas de manejo animal, ergonomía, primeros auxilios.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Manual de EPP")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Manual de EPP")
             .row.align-items-center
               .col-lg
                 h4 Manual de EPP
                 p.mb-3 Definición por rol (montador, herrero, veterinario, etc.).
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Comité COPASST")
+          .tarjeta.color-acento-botones--borde_2.p-4(titulo="Comité COPASST")
             .row.align-items-center
               .col-lg
                 h4 Comité COPASST
