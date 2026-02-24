@@ -115,7 +115,7 @@
                       figure.mb-2(data-aos="fade-right")
                         img(src='@/assets/curso/temas/img109.svg', alt="" style="max-width: 90px").m-auto
                     h5.text-center Recolección diaria y almacenamiento seguro
-                    p.mb-0 Reducir vectores y olores.
+                    p.mb-0 Reducir vectores (moscar, roedores, cucarachas) y olores.
           .col-xl-2.col-md-9(data-aos="fade-right").espacio___movil_3
             .row
               .col-xl(data-aos="zoom-in")
