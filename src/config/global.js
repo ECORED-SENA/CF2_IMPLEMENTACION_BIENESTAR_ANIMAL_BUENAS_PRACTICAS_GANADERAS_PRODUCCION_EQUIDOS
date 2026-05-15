@@ -293,13 +293,6 @@ export default {
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48365 ',
     },
-    {
-      tema: 'Inocuidad y gestión ambiental',
-      referencia:
-        'Instituto Colombiano Agropecuario. (s. f.). Lista de chequeo para la verificación de requisitos sanitarios, de inocuidad y de bienestar animal para la certificación en Buenas Prácticas Ganaderas en la producción de équidos [Lista de chequeo].',
-      tipo: 'Documento',
-      link: '/downloads/Anexo_1_Forma-3-1099-V-2.xlsx',
-    },
   ],
   glosario: [
     {
